@@ -1,0 +1,8 @@
+A description about my project.
+
+Title"Weeb@Bay"
+
+WeebBay is an e-commerce responsive website which contains anime merchandises in various categories.
+
+Features: This is an fully developed front-end website using HTML, CSS and JS only.
+I have used some new features such as adding an icon to our website, gliders using js and a visit popper message!
